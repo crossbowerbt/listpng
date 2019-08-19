@@ -10,6 +10,8 @@ Usage
 
 Give the .png file you want to list, as an argument to the program.
 
+See the tool usage...
+
 Compile
 -------
 
